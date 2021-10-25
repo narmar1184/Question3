@@ -1,0 +1,3 @@
+Funactanlity- Form has to remove Phone no
+Usablity- Address field should be simplified
+UI Aesthetics -Background color change as White, font size should be large, Sie Should be more attractive.
